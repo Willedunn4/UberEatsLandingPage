@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8B9BDF38-3AD8-490A-99BB-B941AF3304CE}"
+	ProjectSection(SolutionItems) = preProject
+		index.html = index.html
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Photos", "Photos", "{125D1D09-AD3C-40E1-B768-3936F379E517}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\DoorDash Logo.jpg = ..\..\..\Downloads\DoorDash Logo.jpg
+		..\..\..\Downloads\Uber Eats Logo.jpg = ..\..\..\Downloads\Uber Eats Logo.jpg
+		..\..\..\Downloads\Uber Eats Photo 1.jpg = ..\..\..\Downloads\Uber Eats Photo 1.jpg
+		..\..\..\Downloads\Uber Eats Photo 2.jpg = ..\..\..\Downloads\Uber Eats Photo 2.jpg
+		..\..\..\Downloads\Uber Eats Photo 3.jpg = ..\..\..\Downloads\Uber Eats Photo 3.jpg
+		..\..\..\Downloads\Uber Logo.jpg = ..\..\..\Downloads\Uber Logo.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{125D1D09-AD3C-40E1-B768-3936F379E517} = {8B9BDF38-3AD8-490A-99BB-B941AF3304CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9F315B4-AC9C-40BF-86C9-3874CACF79CF}
+	EndGlobalSection
+EndGlobal
